@@ -1,6 +1,6 @@
 # chat_app_ui
-Inspiration of UI -  [UI](https://dribbble.com/shots/7160876-WhatsApp-App-Redesign)
-A new Flutter project.
+Inspiration of UI -  [UI from dribble](https://dribbble.com/shots/7160876-WhatsApp-App-Redesign)
+
 
 ## Getting Started
 
