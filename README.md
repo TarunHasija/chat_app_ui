@@ -1,5 +1,5 @@
 # chat_app_ui
-Inspiration of UI -  [UI from dribble]([https://dribbble.com/shots/7160876-WhatsApp-App-Redesign](https://dribbble.com/shots/7160876-WhatsApp-App-Redesign))
+Inspiration of UI -  [UI from dribble](https://dribbble.com/shots/7160876-WhatsApp-App-Redesign)
 
 
 ## Getting Started
